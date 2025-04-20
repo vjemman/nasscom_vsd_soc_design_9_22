@@ -66,3 +66,6 @@ Power planning - eg: 16 bit line with decoupling capacitor
 
 Multiple power supplies solves the issue (vdd,vss)
 ![image](https://github.com/user-attachments/assets/5b8e1a79-c203-46c8-ada5-cda83d6ff22d)
+
+![{B5CE53E5-977D-4715-AF5C-E91FB52462EB}](https://github.com/user-attachments/assets/8fd44c92-3604-40be-9d5c-a84a68e0ed4d)
+
