@@ -69,3 +69,7 @@ Multiple power supplies solves the issue (vdd,vss)
 
 ![{B5CE53E5-977D-4715-AF5C-E91FB52462EB}](https://github.com/user-attachments/assets/8fd44c92-3604-40be-9d5c-a84a68e0ed4d)
 
+![{C60E8075-2284-4668-A364-2C48A1BA799B}](https://github.com/user-attachments/assets/e368499b-7a4d-4115-ad5a-8433ab66616b)
+
+![{A049E89E-63FD-4A6B-8AAF-2991E98BA7F7}](https://github.com/user-attachments/assets/4c50bb2d-f67f-47ad-a84d-d749c2b5526c)
+
